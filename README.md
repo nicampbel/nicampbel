@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://scitechdaily.com/images/Digital-Twin-Earth.gif)">
+
 ### Hi there 👋, Nicholas Campbell
 #### I am a Mechatronic Engineer.
 
