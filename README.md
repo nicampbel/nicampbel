@@ -7,17 +7,6 @@ Skills: C / C++ / Python / Java / MATLAB
 - 🔭 I’m currently working on research in digital twin technologies in the automotive industry. 
 - 📫 How to reach me: 23605839@sun.ac.za 
 
-
-<style>
-  .light-icon {
-    filter: invert(1);
-  }
-</style>
-
-<a href='https://github.com/nicampbel'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' class='light-icon'>
-</a>
-
 <a href='https://www.linkedin.com/in/nicholas-campbell-bb7ba51a6/'>
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' class='light-icon'>
 </a>
