@@ -4,4 +4,4 @@ I am a 22-year-old Mechatronic Engineer pursuing my Master's degree in Software/
 
 Here are my GitHub Stats:
 
-![Nicholas' GitHub stats](https://github-readme-stats.vercel.app/api?username=nicampbel&theme=dark&show_icons=true)
+![Nicholas' GitHub stats](https://github-readme-stats.vercel.app/api?username=nicampbel&theme=default&show_icons=true)
