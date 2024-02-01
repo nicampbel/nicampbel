@@ -1,4 +1,4 @@
-### Hi there 👋, Nicholas Campbell
+### Hi there 👋, I'm Nicholas Evan Campbell
 #### I am a Mechatronic Engineer.
 I am a 22-year-old Mechatronic Engineer pursuing my Master's degree in Software/Digital Twin Engineering. I am currently engaged in collaborative research with the BMW Group, exploring the applications of digital twin technology within the automotive sector.
 
