@@ -1,7 +1,6 @@
 <img align="center" alt="Coding" width="450" src="https://scitechdaily.com/images/Digital-Twin-Earth.gif">
 
-### Hi there 👋, Nicholas Campbell
-#### I am a Mechatronic Engineer.
+### Hi there 👋, I'm Nicholas Campbell
 
 I am a 22-year-old Engineer pursuing my Master's degree in Software/Digital Twin Engineering. I am currently engaged in collaborative research with the BMW Group, exploring the applications of digital twin technology within the automotive sector.
 
