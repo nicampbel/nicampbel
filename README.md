@@ -8,6 +8,13 @@ Skills: C / C++ / Python / Java / MATLAB
 - 📫 How to reach me: 23605839@sun.ac.za 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nicampbel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nicholas-campbell-bb7ba51a6/)  
+<a href='https://github.com/nicampbel'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='filter: invert(1);'>
+</a>
+
+<a href='https://www.linkedin.com/in/nicholas-campbell-bb7ba51a6/'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='filter: invert(1);'>
+</a>
+
 
 ![Nicholas' GitHub stats](https://github-readme-stats.vercel.app/api?username=nicampbel&theme=github_dark&show_icons=true)
