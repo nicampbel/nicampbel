@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Nicholas Campbell
 
-I am a 22-year-old Engineer pursuing my Master's degree in Software/Digital Twin Engineering. I am currently engaged in collaborative research with the BMW Group, exploring the applications of digital twin technology within the automotive sector.
+I am a 23-year-old Engineer pursuing my Master's degree in Software/Digital Twin Engineering. I am currently engaged in collaborative research with the BMW Group, exploring the applications of digital twin technology within the automotive sector.
 
 Skills: C / C++ / Python / Java / MATLAB
 
