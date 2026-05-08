@@ -75,5 +75,3 @@ My Master's research, conducted in close collaboration with **BMW IT Hub South A
 ---
 
 [![GitHub](https://img.shields.io/badge/GitHub-nicampbel-181717?logo=github)](https://github.com/nicampbel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-nicholas--campbell-0A66C2?logo=linkedin)](https://www.linkedin.com/in/nicholas-campbell-bb7ba51a6/)
-
-![Nicholas' GitHub stats](https://github-readme-stats.vercel.app/api?username=nicampbel&theme=github_dark&show_icons=true)
