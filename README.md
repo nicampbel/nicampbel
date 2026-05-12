@@ -1,6 +1,6 @@
 ### Nicholas Campbell — Data Engineer
 
-MEng Mechatronic Engineering (Data), Stellenbosch University
+MEng (Cum Laude) Mechatronic Engineering (Data), Stellenbosch University
 
 ---
 
